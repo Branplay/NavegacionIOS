@@ -1,0 +1,2 @@
+origin	git@github.com:Branplay/NavegacionIOS.git (fetch)
+origin	git@github.com:Branplay/NavegacionIOS.git (push)
